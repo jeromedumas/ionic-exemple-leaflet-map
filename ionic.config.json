@@ -1,0 +1,7 @@
+{
+  "name": "exemple-leaflet-map",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
